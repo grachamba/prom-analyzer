@@ -55,6 +55,10 @@ Example:
 prometheus_url: "http://localhost:9090"
 days: 14
 
+## Screenshot 
+<img width="783" height="718" alt="image" src="https://github.com/user-attachments/assets/7f5581d6-6f7a-497e-bfbc-ed23ef75b221" />
+
+
 ## Methodology
 
 CPU: p95 of summed non-idle CPU cores
