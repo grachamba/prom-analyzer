@@ -15,7 +15,7 @@ Supports Linux and Windows exporters.
 - Safety margin (20%)
 - Reclaim / Grow recommendations
 - Linux + Windows support
-- PromQL compatible backends (Prometheus, VictoriaMetrics, Thanos, Mimir)
+- PromQL compatible backends (Prometheus)
 - Web UI
 - Lightweight queries (quantile_over_time)
 
